@@ -12,7 +12,6 @@
 @endsection
 
 @section('content')
-    <h1>Home</h1>
 
     <div class="row">
         <div class="col-md-3">
@@ -20,7 +19,7 @@
                 id="btn_simulate"
                 type="button"
                 class="btn btn-primary">
-                Simulate new game
+                Генерировать симуляцию
             </button>
         </div>
         <div class="col-md-3">
@@ -28,7 +27,7 @@
                 id="btn_clear"
                 type="button"
                 class="btn btn-primary">
-                Clear data
+                Очистить данные
             </button>
         </div>
         <div class="col-md-6"></div>
